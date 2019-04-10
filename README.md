@@ -1,4 +1,4 @@
-# Project-cs316
+# One lane traffic bridge problem
 You have been hired by Coltrans Limited to automate the flow of traffic on a one-lane bridge that has been the
 site of numerous collisions. Coltrans Limited wants you to implement the following rules:
 ● Traffic can flow in only a single direction on the bridge at a time.
